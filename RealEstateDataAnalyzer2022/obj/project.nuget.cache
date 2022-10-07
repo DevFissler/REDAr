@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "RivYik0g6W3YrOyY3VWb/0mG5uVrtUiLY4jfaSFV9qEmdixEMLDkG4Q9pcu4PYF7EwBZVbotuGHk0IjG/+W5BQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\RealEstateDataAnalyzer2022\\RealEstateDataAnalyzer2022\\RealEstateDataAnalyzer2022.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.win32.systemevents\\4.6.0\\microsoft.win32.systemevents.4.6.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\scottplot\\4.1.58\\scottplot.4.1.58.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\scottplot.winforms\\4.1.58\\scottplot.winforms.4.1.58.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.drawing.common\\4.6.1\\system.drawing.common.4.6.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
